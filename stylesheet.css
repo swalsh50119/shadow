@@ -1,0 +1,10 @@
+#world {
+    width: 400px;
+    height: 800px;
+    position: relative;
+    background: yellow;
+}
+#body {
+    position: absolute;
+    background: red;
+}
